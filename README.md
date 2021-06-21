@@ -1,6 +1,9 @@
 # Understanding-Blockchain-Hackathons
 Repository of Information, Links, and Resources for Blockchain Hackathons
 
+DevPost has a list of great hackathons!
+https://devpost.com/hackathons
+
 NEO Frontier Blockchain Launchpad deadline July 12, 2021
 https://neo-frontier.devpost.com/?ref_feature=challenge&ref_medium=discover
 
